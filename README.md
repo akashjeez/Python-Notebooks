@@ -1,3 +1,3 @@
 # Python-Notebooks
 
-Machine Learning & Deep Learning Projects!
+Jupyter Notebooks for Python Machine Learning & Deep Learning Projects!
